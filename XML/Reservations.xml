@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Reservations>
+  <Reservation>
+    <ReservationID>4054</ReservationID>
+    <GuestID>6606</GuestID>
+    <RoomID>555</RoomID>
+    <CheckInDate>30.03.2016</CheckInDate>
+    <Nights>5</Nights>
+  </Reservation>
+  <Reservation>
+    <ReservationID>9816</ReservationID>
+    <GuestID>7000</GuestID>
+    <RoomID>888</RoomID>
+    <CheckInDate>26.05.2016</CheckInDate>
+    <Nights>12</Nights>
+  </Reservation>
+</Reservations>

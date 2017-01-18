@@ -1,0 +1,5 @@
+IS-PRG2000: OBLIGATORISK DELOPPGAVE 2/3
+MARIUS HAUGAN (884615) 
+
+* C# kode ligger i navngitte regioner i Admin Application: MainWindow.xaml.cs og User Application: Default.aspx.cs
+* XML filer er vedlagt i egen mappe, og kan plasseres direkte i "C:\", så koden umiddelbart lokaliserer filene

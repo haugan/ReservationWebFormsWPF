@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rooms>
+  <Room>
+    <RoomID>111</RoomID>
+  </Room>
+  <Room>
+    <RoomID>222</RoomID>
+  </Room>
+  <Room>
+    <RoomID>333</RoomID>
+  </Room>
+  <Room>
+    <RoomID>444</RoomID>
+  </Room>
+  <Room>
+    <RoomID>555</RoomID>
+  </Room>
+  <Room>
+    <RoomID>666</RoomID>
+  </Room>
+  <Room>
+    <RoomID>777</RoomID>
+  </Room>
+  <Room>
+    <RoomID>888</RoomID>
+  </Room>
+  <Room>
+    <RoomID>999</RoomID>
+  </Room>
+</Rooms>

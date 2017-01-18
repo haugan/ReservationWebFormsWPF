@@ -1,0 +1,48 @@
+C:\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\bin\Debug\HotellAdmin.exe.config
+C:\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\bin\Debug\HotellAdmin.exe
+C:\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\bin\Debug\HotellAdmin.pdb
+C:\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\Admin Application.csprojResolveAssemblyReference.cache
+C:\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\MainWindow.g.cs
+C:\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\App.g.cs
+C:\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin_MarkupCompile.cache
+C:\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin_MarkupCompile.lref
+C:\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\MainWindow.baml
+C:\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin.g.resources
+C:\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin.Properties.Resources.resources
+C:\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\Admin Application.csproj.GenerateResource.Cache
+C:\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin.exe
+C:\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin.pdb
+D:\Dev\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\bin\Debug\HotellAdmin.exe.config
+D:\Dev\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin.exe
+D:\Dev\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin.pdb
+D:\Dev\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\bin\Debug\HotellAdmin.exe
+D:\Dev\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\bin\Debug\HotellAdmin.pdb
+D:\Dev\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\Admin Application.csprojResolveAssemblyReference.cache
+D:\Dev\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\MainWindow.g.cs
+D:\Dev\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\App.g.cs
+D:\Dev\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin_MarkupCompile.cache
+D:\Dev\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin_MarkupCompile.lref
+D:\Dev\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\MainWindow.baml
+D:\Dev\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin.g.resources
+D:\Dev\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin.Properties.Resources.resources
+D:\Dev\VSProjects\HBV\Obligatoriske Oppgaver\OBLIG 2C\HotellAdmin\HotellAdmin\obj\Debug\Admin Application.csproj.GenerateResource.Cache
+C:\Users\haugis\Desktop\OBLIG 2-3\HotellAdmin\HotellAdmin\bin\Debug\HotellAdmin.exe.config
+C:\Users\haugis\Desktop\OBLIG 2-3\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin.exe
+C:\Users\haugis\Desktop\OBLIG 2-3\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin.pdb
+D:\Dev\VSProjects\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\bin\Debug\HotellAdmin.exe.config
+D:\Dev\VSProjects\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin.exe
+D:\Dev\VSProjects\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin.pdb
+D:\Dev\Visual Studio Projects\HBV\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\bin\Debug\HotellAdmin.exe.config
+D:\Dev\Visual Studio Projects\HBV\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin.exe
+D:\Dev\Visual Studio Projects\HBV\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin.pdb
+D:\Dev\Visual Studio Projects\HBV\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\bin\Debug\HotellAdmin.exe
+D:\Dev\Visual Studio Projects\HBV\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\bin\Debug\HotellAdmin.pdb
+D:\Dev\Visual Studio Projects\HBV\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\obj\Debug\Admin Application.csprojResolveAssemblyReference.cache
+D:\Dev\Visual Studio Projects\HBV\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\obj\Debug\MainWindow.g.cs
+D:\Dev\Visual Studio Projects\HBV\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\obj\Debug\App.g.cs
+D:\Dev\Visual Studio Projects\HBV\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin_MarkupCompile.cache
+D:\Dev\Visual Studio Projects\HBV\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin_MarkupCompile.lref
+D:\Dev\Visual Studio Projects\HBV\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\obj\Debug\MainWindow.baml
+D:\Dev\Visual Studio Projects\HBV\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin.g.resources
+D:\Dev\Visual Studio Projects\HBV\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\obj\Debug\HotellAdmin.Properties.Resources.resources
+D:\Dev\Visual Studio Projects\HBV\ISPRG2000 Oblig2-3 Marius Haugan (Hotell)\OBLIG 2-3\HotellAdmin\HotellAdmin\obj\Debug\Admin Application.csproj.GenerateResource.Cache

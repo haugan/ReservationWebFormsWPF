@@ -1,0 +1,47 @@
+﻿<Window x:Class="HotellAdmin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HotellAdmin"
+        mc:Ignorable="d"
+        Title="Hotell Admin 1.0" Height="666" Width="983" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.GradientActiveCaptionColorKey}}"/>
+    </Window.Background>
+    <Grid Margin="0,0,-1,0">
+        <TextBox x:Name="textBox_Name" HorizontalAlignment="Left" Height="23" Margin="260,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Panel.ZIndex="1"/>
+        <Button x:Name="btn_UpdateGuest" Content="Update" HorizontalAlignment="Left" Margin="359,120,0,0" VerticalAlignment="Top" Width="80" Panel.ZIndex="1" Height="40" Click="btn_UpdateGuest_Click"/>
+        <Label x:Name="label1_Copy" Content="Name&#xA;" HorizontalAlignment="Left" Margin="261,55,0,0" VerticalAlignment="Top" Width="205" Height="26" Panel.ZIndex="1"/>
+        <Button x:Name="btn_RegisterGuest" Content="Register" HorizontalAlignment="Left" Margin="260,120,0,0" VerticalAlignment="Top" Width="80" Panel.ZIndex="1" Height="40" Click="btn_RegisterGuest_Click"/>
+        <Button x:Name="btn_DeleteGuest" Content="Delete" HorizontalAlignment="Left" Margin="60,540,0,0" VerticalAlignment="Top" Width="180" Panel.ZIndex="1" Height="40" Click="btn_DeleteGuest_Click"/>
+        <Button x:Name="btn_UpdateReservation" Content="Update" HorizontalAlignment="Left" Margin="841,442,0,0" VerticalAlignment="Top" Width="80" Panel.ZIndex="1" Height="40" Click="btn_UpdateReservation_Click"/>
+        <Label x:Name="label1_Copy1" Content="Room" HorizontalAlignment="Left" Margin="742,313,0,0" VerticalAlignment="Top" Width="120" Height="26" Panel.ZIndex="1"/>
+        <Button x:Name="btn_RegisterReservation" Content="Register" HorizontalAlignment="Left" Margin="741,442,0,0" VerticalAlignment="Top" Width="80" Panel.ZIndex="1" Height="40" Click="btn_RegisterReservation_Click"/>
+        <Label x:Name="label1_Copy2" Content="Check in" HorizontalAlignment="Left" Margin="742,55,0,0" VerticalAlignment="Top" Width="120" Height="26" Panel.ZIndex="1"/>
+        <TextBox x:Name="textBox_Nights" HorizontalAlignment="Left" Height="23" Margin="741,280,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Panel.ZIndex="1" TextChanged="textBox_Nights_TextChanged"/>
+        <Label x:Name="label1_Copy3" Content="Length of stay (nights)" HorizontalAlignment="Left" Margin="742,255,0,0" VerticalAlignment="Top" Width="178" Height="26" Panel.ZIndex="1"/>
+        <Button x:Name="btn_DeleteReservation" Content="Delete" HorizontalAlignment="Left" Margin="540,540,0,0" VerticalAlignment="Top" Width="180" Panel.ZIndex="1" Height="40" Click="btn_DeleteReservation_Click"/>
+        <Calendar x:Name="cal_CheckIn" HorizontalAlignment="Left" Margin="741,78,0,0" VerticalAlignment="Top" Panel.ZIndex="1" SelectedDatesChanged="cal_CheckIn_SelectedDatesChanged"/>
+        <ComboBox x:Name="comboBox_Room" HorizontalAlignment="Left" Margin="741,340,0,0" VerticalAlignment="Top" Width="180" Panel.ZIndex="1" DropDownOpened="comboBox_Room_DropDownOpened" SelectionChanged="comboBox_Room_SelectionChanged"/>
+        <ListBox x:Name="listBox_Guests" HorizontalAlignment="Left" Height="400" Margin="60,60,0,0" VerticalAlignment="Top" Width="180" SelectionChanged="listBox_Guests_SelectionChanged" Panel.ZIndex="1"/>
+        <ListBox x:Name="listBox_Reservations" HorizontalAlignment="Left" Height="400" Margin="540,60,0,0" VerticalAlignment="Top" Width="180" SelectionChanged="listBox_Reservations_SelectionChanged" Panel.ZIndex="1"/>
+        <GroupBox x:Name="groupBox_Guests" Header="Guest" HorizontalAlignment="Left" Margin="45,30,0,0" VerticalAlignment="Top" Height="575" Width="417">
+            <GroupBox.Background>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+            </GroupBox.Background>
+            <CheckBox x:Name="checkBox_ReservedTrue" Content="Guests with reservations" HorizontalAlignment="Left" Margin="212,137,-5,0" VerticalAlignment="Top" Width="198" Checked="checkBox_ReservedTrue_Checked" Unchecked="checkBox_ReservedTrue_Unchecked"/>
+        </GroupBox>
+        <GroupBox x:Name="groupBox_Reservations" Header="Reservation" HorizontalAlignment="Left" Margin="520,25,0,0" VerticalAlignment="Top" Height="575" Width="420">
+            <GroupBox.Background>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+            </GroupBox.Background>
+        </GroupBox>
+        <Label x:Name="label1_Copy4" Content="Guest" HorizontalAlignment="Left" Margin="742,372,0,0" VerticalAlignment="Top" Width="120" Height="26" Panel.ZIndex="1"/>
+        <ComboBox x:Name="comboBox_Guest" HorizontalAlignment="Left" Margin="741,399,0,0" VerticalAlignment="Top" Width="180" Panel.ZIndex="1" SelectionChanged="comboBox_Guest_SelectionChanged" DropDownOpened="comboBox_Guest_DropDownOpened"/>
+        <Button x:Name="btn_ClearGuest" Content="Clear" HorizontalAlignment="Left" Margin="60,480,0,0" VerticalAlignment="Top" Width="180" Panel.ZIndex="1" Height="40" Click="btn_ClearGuest_Click"/>
+        <Button x:Name="btn_ClearReservation" Content="Clear" HorizontalAlignment="Left" Margin="540,480,0,0" VerticalAlignment="Top" Width="180" Panel.ZIndex="1" Height="40" Click="btn_ClearReservation_Click"/>
+        <CheckBox x:Name="checkBox_ReservedFalse" Content="Guests without reservations" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="263,203,0,0" Width="197" Checked="checkBox_ReservedFalse_Checked" Unchecked="checkBox_ReservedFalse_Unchecked"/>
+
+    </Grid>
+</Window>

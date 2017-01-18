@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Guests>
+  <Guest>
+    <GuestID>6606</GuestID>
+    <Name>Pepperoni</Name>
+    <HasReservation>1</HasReservation>
+  </Guest>
+  <Guest>
+    <GuestID>7000</GuestID>
+    <Name>Lasagne</Name>
+    <HasReservation>1</HasReservation>
+  </Guest>
+  <Guest>
+    <GuestID>2370</GuestID>
+    <Name>Bolognese</Name>
+    <HasReservation>0</HasReservation>
+  </Guest>
+  <Guest>
+    <GuestID>409</GuestID>
+    <Name>Tortellini</Name>
+    <HasReservation>0</HasReservation>
+  </Guest>
+</Guests>
